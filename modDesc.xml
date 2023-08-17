@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="68">
+<modDesc descVersion="72">
     <author>Jos</author>
-    <version>1.0.0.0</version>
+    <version>1.0.0.1</version>
     <title>
         <en>Extended Straw Crops</en>
         <de>Erweiterte Stroh Früchte</de>
     </title>
     <description>
-        <en><![CDATA[Canola, Corn, Sorghum, Soybean, and Sunflower give straw when harvesting.]]></en>
-        <en><![CDATA[Raps, Mais, Sorghum, Sojabohne, und Sonnenblumen geben bei der Ernte Stroh.]]></en>
+        <en><![CDATA[Canola, Corn, Sorghum, Soybean, and Sunflower give straw when harvesting.
+
+Changelog 1.0.0.1
+- No longer overrides custom straw from mod maps.
+]]>
+        </en>
+        <de><![CDATA[Raps, Mais, Sorghum, Sojabohne, und Sonnenblumen geben bei der Ernte Stroh.
+
+Changelog 1.0.0.1
+- Überschreibt nicht länger benutzerdefinierte Strohhalme von Mod-Maps.
+]]>
+        </de>
     </description>
-    <iconFilename>icon.dds</iconFilename>
+    <iconFilename>icon_ExtendedStrawCrops.dds</iconFilename>
     <multiplayer supported="true" />
     <fruitTypes filename="xml/fruitTypes.xml" />
     <extraSourceFiles>
