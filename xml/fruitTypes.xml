@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://validation.gdn.giants-software.com/xml/schema/fruitTypes.xsd">
+    <fruitTypes>
+        <fruitType name="canola">
+            <windrow name="straw" litersPerSqm="3" />
+        </fruitType>
+        <fruitType name="maize">
+            <windrow name="straw" litersPerSqm="15" />
+        </fruitType>
+        <fruitType name="sorghum">
+            <windrow name="straw" litersPerSqm="3.68" />
+        </fruitType>
+        <fruitType name="soybean">
+            <windrow name="straw" litersPerSqm="3.68" />
+        </fruitType>
+        <fruitType name="sunflower">
+            <windrow name="straw" litersPerSqm="15" />
+        </fruitType>
+    </fruitTypes>
+</map>
